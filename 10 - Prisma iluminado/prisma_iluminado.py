@@ -5,7 +5,7 @@ from sys import argv
 from math import sin, cos, pi, sqrt
 
 # Window Name
-window_name = "Iluminacao dos Tronco da Pirâmide"
+window_name = "Iluminacao do Prisma"
 
 # Background Color RGBA
 background_color = (0.184, 0.211, 0.250, 1)
